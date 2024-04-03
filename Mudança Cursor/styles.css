@@ -1,14 +1,9 @@
-body{
-    cursor: url('img/cursor\ lol.png'), auto;
-}
-
-#botao:hover {
-    background-color: #d8d8d8;
-}
-
-#botao{
+.area {
     width: 200px;
     height: 200px;
-    justify-content: center;
-    background-color: #ff1800;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 200px;
+    cursor: url("https://uploaddeimagens.com.br/imagens/GDQtlpk"), auto; /* Define o cursor personalizado */
+
 }
