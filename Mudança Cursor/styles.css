@@ -1,0 +1,14 @@
+body{
+    cursor: url('img/cursor\ lol.png'), auto;
+}
+
+#botao:hover {
+    background-color: #d8d8d8;
+}
+
+#botao{
+    width: 200px;
+    height: 200px;
+    justify-content: center;
+    background-color: #ff1800;
+}

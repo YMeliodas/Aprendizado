@@ -1,0 +1,55 @@
+body{
+    background-color: #ff1800;
+}
+
+.homes{
+    display: flex;
+}
+
+.head{
+    font-family: "DotGothic16", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    border-bottom: solid black 2px;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#lucky{
+    width: 180px;
+    height: 90px;
+    border-radius: 50%;
+    font-family: "IM Fell English", serif;
+    font-weight: 400;
+    font-style: italic;
+    margin: 10px;
+    background-color: #d8d8d8;
+}
+
+.homes{
+    display: flex;
+}
+
+#home1{
+    border-right: solid black 1px;
+}
+
+#home2{
+    border-left: solid black 1px;
+}
+
+#logo{
+    max-width: 50%;
+    max-height: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.digitos{
+    font-family: "DotGothic16", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+}
